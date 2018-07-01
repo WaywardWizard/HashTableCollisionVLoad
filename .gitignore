@@ -1,0 +1,4 @@
+*.csv
+.cproject
+.project
+.settings
