@@ -1,4 +1,5 @@
 # About this project
+###Developed May 2017
 
 C Implementation of various forms of hash table, and investigation into performance
 
